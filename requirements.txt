@@ -1,0 +1,9 @@
+dspy-ai
+openai
+roonapi
+pydantic
+python-dotenv
+rich
+# Optional if you want to try other LMs
+# ollama
+# litellm
