@@ -6,6 +6,12 @@ __pycache__/
 # Apple
 .DS_Store
 
+# VSCode
+.vscode
+.vscode/
+.vscode/*
+.vscode/settings.json
+
 # C extensions
 *.so
 
