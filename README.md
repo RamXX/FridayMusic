@@ -15,6 +15,8 @@ This program makes extensive use of the [Typed Predictors](https://dspy-docs.ver
 ## Configuration
 You can configure your preferences primarily in two different files, `config.ini` and `config.py`. Eventually, I'd like to consolidate everything on a single file, but this is the current state.
 
+After the installation, create a `.env` file in the main folder and ensure you have `OPENAI_API_KEY=xxxxxx` with your API key.
+
 ## Roon Integration
 The program is integrated with [Roon](https://roon.app/en/) for music playback.
 
