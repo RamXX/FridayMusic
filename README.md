@@ -24,7 +24,7 @@ The playback is a locking function unfortunately, so that means the program will
 
 ## Installation
 ```
-git clone && cd FridayMusic
+git clone https://github.com/RamXX/FridayMusic && cd FridayMusic
 python3.11 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt -U
